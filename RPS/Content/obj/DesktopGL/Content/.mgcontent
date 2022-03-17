@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Font/GameFont.spritefont</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Sprite/Paper.png</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Sprite/Paper32.png</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Sprite/Rock.png</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Sprite/Rock32.png</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Sprite/Scissor.png</File>
+    <File>/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/Game/Monogame/RPS/RPS/Content/Sprite/Scissor32.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
